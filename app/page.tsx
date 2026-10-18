@@ -34,7 +34,7 @@ export default function Home() {
     setIsMounted(true);
 
     // 1. Restricción de fecha (16 de octubre)
-    const deadline = new Date('2026-10-16T23:59:59'); 
+    const deadline = new Date('2026-10-26T23:59:59'); 
     if (new Date() > deadline) {
       setIsPastDeadline(true);
     }
