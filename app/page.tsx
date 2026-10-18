@@ -173,7 +173,7 @@ export default function Home() {
                   Queremos que no falte nada en esta gran tarde. Ayúdanos a planificar el banquete confirmando tu asistencia y la de tus acompañantes.
                 </p>
                 <span className="inline-block bg-pink-100 text-pink-800 text-xs px-3 py-1 rounded-full font-semibold">
-                  Tienes hasta el 16 de octubre para confirmar
+                  Tienes hasta el 26 de octubre para confirmar
                 </span>
               </div>
 
